@@ -17,9 +17,12 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+-☼
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhavesh-upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh-upadhyay" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/bhavesh-upadhyay]"(https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh-upadhyay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
