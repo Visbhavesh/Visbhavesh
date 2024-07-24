@@ -5,17 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visbhavesh&label=Profile%20views&color=0e75b6&style=flat" alt="visbhavesh" /> </p>
 
 
-- 🔭 I’m currently working on **Coding Club MERN Web Site**
+- 🔭 I’m currently working at Employee Forum as Software Developer 
 
-- 🌱 I’m currently learning **React,NodeJs**
+- 🌱 I’m currently learning **ExpressJs,NodeJs,Python,Django **
 
 - 🤝 I’m looking for help with **VueJs**
 
 - 💬 Ask me about **CPP,Java,Python,Javascript,MERN**
 
 - 📫 How to reach me **bhaveshchand28@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 -☼
 
