@@ -140,22 +140,216 @@ const bhavesh = {
 
 ---
 
-<div align="center">
+## 💭 Random Dev Quote
 
-### 💭 Dev Quote of the Day
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/visbhavesh/visbhavesh/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 ---
 
-**⭐ From [visbhavesh](https://github.com/visbhavesh) with ❤️**
+## 🐍 Contribution Snake
 
-*"Code is like humor. When you have to explain it, it's bad!" – Cory House*
+<div align="center">
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![Snake animation](https://raw.githubusercontent.com/visbhavesh/visbhavesh/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🎯 Current Goals
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Master Vue.js] --> B[Build SaaS Products]
+    B --> C[Contribute to Open Source]
+    C --> D[Tech Leadership]
+    
+    style A fill:#61dafb,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#4caf50,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#ff9800,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#e91e63,stroke:#333,stroke-width:2px,color:#000
+```
+
+</div>
+
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💪 Support My Work
+
+<div align="center">
+
+If you find my projects helpful, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/visbhavesh)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/visbhavesh)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎵 Currently Vibing To
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Profile Views & Stars
+
+![Profile Views](https://komarev.com/ghpvc/?username=visbhavesh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/visbhavesh?label=Followers&style=for-the-badge&color=blue)](https://github.com/visbhavesh?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/visbhavesh?label=Stars&style=for-the-badge&color=yellow)](https://github.com/visbhavesh)
+
+---
+
+### 🌟 Featured Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">Project Name 1</h3>
+<div align="center">
+<a href="https://github.com/visbhavesh/project1" target="_blank">
+<img src="https://via.placeholder.com/400x200/0d1117/58a6ff?text=Project+Screenshot" alt="Project 1"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/visbhavesh/project1" target="_blank">
+<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://project1-demo.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+<p><strong>React, Node.js, MongoDB</strong> - Brief project description here showcasing your best work.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Project Name 2</h3>
+<div align="center">
+<a href="https://github.com/visbhavesh/project2" target="_blank">
+<img src="https://via.placeholder.com/400x200/0d1117/58a6ff?text=Project+Screenshot" alt="Project 2"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/visbhavesh/project2" target="_blank">
+<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://project2-demo.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+<p><strong>Python, Django, PostgreSQL</strong> - Brief project description showcasing your technical skills.</p>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💡 Fun Facts About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9A%A1+I+speak+5+programming+languages+fluently;%F0%9F%8E%AE+Gaming+%7C+Coding+%7C+Coffee+enthusiast;%F0%9F%9A%80+Always+exploring+new+technologies" alt="Fun Facts" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏅 Achievements & Certifications
+
+[![Certification 1](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/your-badge)
+[![Certification 2](https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credential.net/your-credential)
+[![Certification 3](https://img.shields.io/badge/Meta-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.coursera.org/account/accomplishments/verify/YOUR_CERT)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Collaborate!
+
+I'm always interested in collaborating on interesting projects. Feel free to reach out if you want to:
+- 🚀 Build something amazing together
+- 💡 Discuss new technologies
+- 🎯 Work on open-source projects
+- 📚 Share knowledge and learn
+
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-Click%20Here-blue?style=for-the-badge&logo=handshake&logoColor=white)](mailto:bhaveshchand28@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Detailed GitHub Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visbhavesh&theme=tokyonight" alt="GitHub Details"/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=visbhavesh&theme=tokyonight&layout=compact" alt="Wakatime Stats"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=white"/>
+
+<br>
+
+**⭐ From [Visbhavesh](https://github.com/visbhavesh) with ❤️**
+
+*"First, solve the problem. Then, write the code." – John Johnson*
+
+<br>
+
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
+![Powered by Coffee](https://img.shields.io/badge/Powered%20by-%E2%98%95%20Coffee-brown?style=for-the-badge)
 
 </div>
