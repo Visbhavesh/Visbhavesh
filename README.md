@@ -1,472 +1,402 @@
-# 👨‍💻 Bhavesh Chand Upadhyay
-
 <div align="center">
 
-### 🔥 Full Stack Developer | MERN Enthusiast | AI/LLM Explorer | Problem Solver
+# 👨‍💻 Bhavesh Chand Upadhyay
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=60&lines=💻+Full+Stack+Developer;🚀+MERN+Specialist;🤖+AI+%26+LLM+Expert;⚡+Building+the+Future)](https://github.com/visbhavesh)
+### Full Stack Developer | AI/ML Engineer | MERN Enthusiast
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI+Engineer;React+%7C+Node+%7C+Python+Expert;Building+Intelligent+Applications;LLM+%26+Agent+Training+Specialist;77%2B+Projects+Completed;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-**Welcome to my GitHub profile! I'm a passionate developer building intelligent, scalable applications.**
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="500" alt="Coding Animation">
 
-<img src="https://media.giphy.com/media/QTfW1ZJt8i4PzzBQKb/giphy.gif" width="500" alt="Coding Animation">
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=visbhavesh&style=for-the-badge&color=00FF00&label=PROFILE%20VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/visbhavesh?style=for-the-badge&color=00FF00)
-![GitHub Stars](https://img.shields.io/github/stars/visbhavesh?style=for-the-badge&color=FFD700)
+[![Profile Views](https://komarev.com/ghpvc/?username=visbhavesh&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/visbhavesh)
+[![GitHub followers](https://img.shields.io/github/followers/visbhavesh?label=Followers&style=for-the-badge&color=blue)](https://github.com/visbhavesh?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/visbhavesh?label=Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/visbhavesh)
 
 </div>
 
 ---
 
-## 🎯 Quick Overview
+## 🚀 About Me
 
 ```javascript
 const bhavesh = {
-    📍: "Varanasi, Uttar Pradesh, India 🇮🇳",
-    💼: "Software Developer @ SAMS Noida",
-    
-    🔧: {
-        languages: ["JavaScript", "Python", "TypeScript", "Java", "C++"],
-        frontend: ["React.js", "Next.js", "Vue.js", "HTML5", "CSS3", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "Django", "FastAPI", "REST APIs"],
-        ai_ml: ["LangChain", "OpenAI API", "Claude API", "Hugging Face", "RAG Systems", "Agent Training"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Pinecone", "Weaviate"],
-        tools: ["Git", "Docker", "Firebase", "Vercel", "AWS", "Jupyter"]
+    location: "India 🇮🇳",
+    currentRole: "Software Developer @ SAMS Noida",
+    currentFocus: "LLM Training & AI Agent Development",
+    totalProjects: 77,
+    code: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Bootstrap"],
+        backEnd: ["Node.js", "Express.js", "Django", "FastAPI"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Pinecone"],
+        aiMl: ["LangChain", "OpenAI", "Hugging Face", "TensorFlow", "PyTorch"],
+        tools: ["Git", "Docker", "Firebase", "Figma", "AWS"]
     },
-    
-    🎓: {
-        learning: "Vue.js, Advanced LLM Fine-tuning, Multi-Agent Systems",
-        passionate_about: ["Web Development", "AI/ML", "System Design", "Open Source"],
-    },
-    
-    💬: "Ask me about MERN, LLM Integration, Algorithms, System Architecture",
-    
-    😄: "I use console.log() to debug, and that's perfectly fine! 🐛"
+    currentlyLearning: ["Vue.js", "Advanced RAG", "Multi-Agent Systems"],
+    askMeAbout: ["Web Dev", "MERN Stack", "LLM Applications", "AI Agents"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
 
 ---
 
-## 💼 Currently
-
-| 🔭 | **Working On** | Software Development & AI/LLM Projects @ SAMS Noida |
-|:---:|:---|:---|
-| 🤖 | **AI Focus** | LLM Integration, RAG Systems, Agent Architecture |
-| 🌱 | **Learning** | Advanced LLM Fine-tuning, Multi-Agent Patterns |
-| 🎯 | **Goals** | Build production-grade AI applications, Open source contribution |
-| 💡 | **Interested In** | Full-Stack Development, System Design, Machine Learning |
-| 📧 | **Email** | [bhaveshchand28@gmail.com](mailto:bhaveshchand28@gmail.com) |
-| 💰 | **Support** | [Google Pay](#💰-support-my-work) • [Buy Me Coffee](#💰-support-my-work) |
-
----
-
-## 🛠️ Tech Stack
+## 🤖 AI/ML & LLM Expertise
 
 <div align="center">
 
-### 📝 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=1a1a1a)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a1a)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a1a)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a)
-![REST](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
-
-### 🤖 AI & ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=000)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a1a)
-![Claude](https://img.shields.io/badge/Claude%20API-000000?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1a1a1a)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a1a)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a1a)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a1a)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=1a1a1a)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-
-### 🔴 Real-Time Statistics
-
-```
-┌─────────────────────────────────────────────┐
-│   GitHub Profile Performance Metrics         │
-├─────────────────────────────────────────────┤
-│  👥 Followers       : Actively Growing      │
-│  ⭐ Total Stars     : Check your repos      │
-│  📦 Repositories    : 25+ Public Projects   │
-│  🔥 Streak          : Keep it Burning! 🔥   │
-│  📈 Contribution    : Consistent Daily Work │
-│  🏆 Achievements    : Growing Portfolio     │
-└─────────────────────────────────────────────┘
-```
-
-### 📈 Performance Metrics
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=visbhavesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Bhavesh's%20GitHub%20Stats)
-
-### 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visbhavesh&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=320)
-
-### 🔥 Daily Commit Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=visbhavesh&theme=tokyonight&hide_border=true)
-
-### 📊 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=visbhavesh&theme=tokyo-night&hide_border=true&custom_title=Bhavesh's%20Contribution%20Activity)
-
-### 🏆 GitHub Trophies & Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=visbhavesh&theme=tokyonight&no-frame=true&margin-w=5)
-
-</div>
-
----
-
-## 🤖 LLM & AI Development Expertise
-
-<div align="center">
-
-### 🧠 Large Language Models
-
-**Core Competencies:**
-- **LLM Integration** → OpenAI GPT-4, Claude 3, Open Source Models
-- **RAG Systems** → Retrieval-Augmented Generation Pipelines
-- **Prompt Engineering** → Advanced techniques for optimal responses
-- **Agent Architecture** → Multi-agent systems with tool integration
-- **Fine-tuning** → Custom model training for specific domains
-- **Vector Databases** → Pinecone, Weaviate, Milvus integration
-
-### 🔧 AI Stack Implementation
-
-```mermaid
-graph LR
-    A["LLM API<br/>OpenAI/Claude"] -->|Chain| B["LangChain<br/>Orchestration"]
-    B --> C["Vector DB<br/>Embeddings"]
-    C --> D["RAG<br/>Pipeline"]
-    D --> E["Agent<br/>Tools"]
-    E --> F["App<br/>Frontend"]
-    
-    style A fill:#412991
-    style B fill:#1C3C3C
-    style C fill:#FF6B6B
-    style D fill:#4ECDC4
-    style E fill:#FFD93D
-    style F fill:#6BCB77
-```
-
-### 🚀 Recent AI Projects
-
-| Project | Tech Stack | Features |
-|---------|-----------|----------|
-| 🤖 **AI Chat Application** | Next.js, LangChain, OpenAI, MongoDB | Real-time RAG, Memory Management, Streaming |
-| 🔍 **Code Review Agent** | Python, FastAPI, LLaMA, Vector DB | Code Analysis, Security Scanning, Suggestions |
-| 📊 **Data Intelligence** | Node.js, Claude API, PostgreSQL | Analytics, Predictions, Natural Language Queries |
-| 🌐 **Multi-Agent System** | Python, LangChain, Tool Integration | Collaborative agents, Complex task solving |
-
-</div>
-
----
-
-## 💡 Featured Projects Showcase
+### Currently Working On
 
 <table>
 <tr>
-<td width="50%">
-
-### 🤖 AI Chat Platform
-**Next.js | LangChain | OpenAI**
-
-Advanced conversational AI with:
-- Real-time streaming responses
-- RAG integration
-- Memory management
-- Document uploads
-- Cost optimization
-
-[View Code](https://github.com/visbhavesh) | [Live Demo](https://bhavesh-ai-chat.vercel.app)
-
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+<br><strong>LLM Training</strong>
+<br><sub>Fine-tuning & Optimization</sub>
 </td>
-<td width="50%">
-
-### 📊 Analytics Dashboard
-**React | Node.js | PostgreSQL**
-
-Interactive analytics with:
-- Real-time data visualization
-- Machine learning predictions
-- Custom report generation
-- Data export functionality
-- Performance monitoring
-
-[View Code](https://github.com/visbhavesh) | [Live Demo](https://bhavesh-analytics.vercel.app)
-
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/>
+<br><strong>AI Agents</strong>
+<br><sub>Autonomous Systems</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60" height="60" alt="PyTorch"/>
+<br><strong>Neural Networks</strong>
+<br><sub>Deep Learning Models</sub>
 </td>
 </tr>
+</table>
+
+### AI Tech Stack
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+---
+
+## 💼 What I'm Up To
+
+<table>
 <tr>
-<td width="50%">
-
-### 🔍 Code Review Agent
-**Python | FastAPI | LLaMA**
-
-Intelligent code analysis:
-- Automatic code review
-- Security vulnerability detection
-- Performance optimization suggestions
-- Documentation generation
-- Refactoring recommendations
-
-[View Code](https://github.com/visbhavesh) | [Demo](https://github.com/visbhavesh)
-
-</td>
-<td width="50%">
-
-### 🌐 Multi-Agent Framework
-**Python | LangChain | Claude**
-
-Collaborative agent system:
-- Tool integration
-- Task decomposition
-- Agent coordination
-- State management
-- Extensible architecture
-
-[View Code](https://github.com/visbhavesh) | [Docs](https://github.com/visbhavesh)
-
-</td>
+<td>🔭</td>
+<td><b>Current Role:</b> Software Developer at SAMS Noida</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><b>AI Focus:</b> Training LLMs and developing intelligent AI agents</td>
+</tr>
+<tr>
+<td>🌱</td>
+<td><b>Learning:</b> Vue.js, Advanced RAG systems, Multi-agent architectures</td>
+</tr>
+<tr>
+<td>🚀</td>
+<td><b>Projects:</b> 77+ completed projects across full-stack and AI/ML</td>
+</tr>
+<tr>
+<td>💬</td>
+<td><b>Ask Me About:</b> MERN Stack, LLM Applications, AI Agents, System Design</td>
+</tr>
+<tr>
+<td>📫</td>
+<td><b>Email:</b> <a href="mailto:bhaveshchand28@gmail.com">bhaveshchand28@gmail.com</a></td>
 </tr>
 </table>
 
 ---
 
-## 📈 Recent Activity & Contributions
+## 🛠️ Complete Tech Stack
 
 <div align="center">
 
-### ✨ What I'm Working On Right Now
+### Languages
 
-```
-🔴 ACTIVE PROJECTS
-├── 🤖 LLM Integration Framework
-├── 📦 RAG Pipeline Optimization
-├── 🔧 Multi-Agent System Development
-├── 📚 Documentation & Tutorials
-└── 🎓 Learning Advanced Techniques
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-📌 FOCUS AREAS
-├── Production-Grade AI Systems
-├── Scalability & Performance
-├── Cost Optimization
-└── Best Practices & Patterns
-```
+### Frontend
 
-### 🎯 Development Focus Areas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Week by Week Progress:**
-- ⚡ Monday-Wednesday: Core Development
-- 🧪 Thursday: Testing & Optimization
-- 📚 Friday: Learning & Research
-- 🔄 Weekend: Open Source & Contributions
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Connect & Collaborate
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 📱 Get In Touch
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=visbhavesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visbhavesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-[![Email](https://img.shields.io/badge/Email-bhaveshchand28@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaveshchand28@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavesh%20Upadhyay-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-upadhyay)
-[![GitHub](https://img.shields.io/badge/GitHub-visbhavesh-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visbhavesh)
-[![Twitter](https://img.shields.io/badge/Twitter-@visbhavesh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/visbhavesh)
+</div>
 
-### 💬 Let's Talk About
-- 💼 Full-Stack Development & Architecture
-- 🤖 AI/LLM Integration & Deployment
-- 🚀 Scalable System Design
-- 🎓 Learning & Mentorship
-- 🌟 Open Source Contributions
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=visbhavesh&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visbhavesh&theme=tokyonight" alt="GitHub Details"/>
 
 </div>
 
 ---
 
-## 💰 Support My Work
+## 🎯 Current Goals & Roadmap
 
 <div align="center">
 
-### ❤️ Help Me Build Better Projects
-
-If you find my work valuable and want to support my development journey:
-
-| Payment Method | Details |
-|:-:|:-:|
-| 💳 **Google Pay** | **UPI:** `bhaveshchand28@okhdfcbank` |
-| 💳 **Google Pay** | **UPI:** `bhaveshchand28@oksbi` |
-| ☕ **Buy Me Coffee** | [Support via BMC](https://www.buymeacoffee.com/visbhavesh) |
-| 🎨 **Ko-Fi** | [Support via Ko-Fi](https://ko-fi.com/visbhavesh) |
-
-### 💪 Why Support?
-
-Your support helps me:
-- ✨ Continue building open-source projects
-- 📚 Learn and master new technologies
-- 🚀 Create high-quality tutorials & content
-- 🎯 Contribute to the developer community
-- 💡 Build innovative AI/LLM applications
-
-**Every contribution (₹10, ₹20, ₹50, or more) makes a huge difference!** 🙏
-
-### 📊 Support Impact
-```
-₹10-20   → Coffee ☕ (1 day of code)
-₹50-100  → Meal 🍽️ (dedicated project time)
-₹200+    → Extended development time 🚀
+```mermaid
+graph LR
+    A[Master LLM Training] --> B[Build AI SaaS Products]
+    B --> C[Multi-Agent Systems]
+    C --> D[Open Source AI Tools]
+    D --> E[Tech Leadership]
+    
+    style A fill:#61dafb,stroke:#333,stroke-width:3px,color:#000
+    style B fill:#4caf50,stroke:#333,stroke-width:3px,color:#000
+    style C fill:#ff9800,stroke:#333,stroke-width:3px,color:#000
+    style D fill:#9c27b0,stroke:#333,stroke-width:3px,color:#000
+    style E fill:#e91e63,stroke:#333,stroke-width:3px,color:#000
 ```
 
 </div>
 
 ---
 
-## 🎓 Learning & Growth
+## 💪 Support My Work
 
 <div align="center">
 
-### 📚 Current Learning Path
+### If you find my work helpful, consider supporting me! ☕
 
-```
-Phase 1: LLM Mastery (Current)
-├── Advanced Prompt Engineering
-├── Fine-tuning Techniques
-├── RAG Pipeline Optimization
-└── Vector Database Management
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/96/000000/google-pay-india.png" width="80" alt="Google Pay"/>
+<br><br>
+<strong>Google Pay / PhonePe</strong>
+<br><br>
+<code>bhaveshchand28@oksbi</code>
+<br><br>
+<sub>Scan or use UPI ID</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/96/000000/coffee-to-go.png" width="80" alt="Coffee"/>
+<br><br>
+<strong>Buy Me A Coffee</strong>
+<br><br>
+<a href="https://www.buymeacoffee.com/visbhavesh">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+<br>
+<sub>Support via Coffee</sub>
+</td>
+</tr>
+</table>
 
-Phase 2: Production Systems
-├── Scalability & Performance
-├── Cost Optimization Strategies
-├── Monitoring & Observability
-└── Enterprise Deployment
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/visbhavesh)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/visbhavesh)
 
-Phase 3: Leadership & Community
-├── Open Source Contributions
-├── Mentoring Developers
-├── Technical Writing
-└── Speaking & Workshops
-```
-
-### 📖 Resources I Use
-
-- [LangChain Docs](https://python.langchain.com) - LLM Framework
-- [OpenAI API](https://platform.openai.com/docs) - GPT Models
-- [Anthropic Claude](https://docs.claude.com) - Claude API
-- [Hugging Face](https://huggingface.co/docs) - Model Hub
-- [System Design Interview](https://github.com/donnemartin/system-design-primer) - Architecture
+<sub>Your support helps me create more open-source projects and AI tools! 🚀</sub>
 
 </div>
 
 ---
 
-## 🎯 Personal Mission
+## 🤝 Connect With Me
 
 <div align="center">
 
-> ### "Build intelligent systems that solve real-world problems and make technology accessible to everyone."
-
-**Core Values:**
-- 🎯 **Excellence** - Writing clean, efficient code
-- 🤝 **Collaboration** - Helping others grow
-- 📚 **Continuous Learning** - Staying ahead of the curve
-- 🌍 **Impact** - Creating solutions that matter
-- 💪 **Resilience** - Overcoming challenges
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-upadhyay)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaveshchand28@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visbhavesh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/visbhavesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://visbhavesh.github.io)
 
 </div>
 
 ---
 
-## 🏅 Achievements & Milestones
+## 💭 Random Dev Quote
 
 <div align="center">
 
-### 🌟 Notable Accomplishments
-
-```
-✅ 25+ GitHub Projects
-✅ 100+ Stars Earned
-✅ Active Open Source Contributor
-✅ Full-Stack MERN Specialist
-✅ AI/LLM Integration Expert
-✅ System Design Knowledge
-✅ Mentored 10+ Developers
-✅ Technical Articles Written
-```
-
-### 📜 Certifications & Learning
-
-- 🎓 Full-Stack Web Development
-- 🎓 Data Structures & Algorithms
-- 🎓 Machine Learning Fundamentals
-- 🎓 Advanced LLM Development (In Progress)
-- 🎓 System Design Patterns (In Progress)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-## 📊 Profile Summary Card
+## 🏅 Achievements
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visbhavesh&theme=tokyonight)
+<img src="https://github-profile-trophy.vercel.app/?username=visbhavesh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 🚀 Quick Links
+## 💡 Fun Facts & Skills
 
 <div align="center">
 
-| 🏠 | 👨‍💻 | 📦 | 🌐 |
-|:---:|:---:|:---:|:---:|
-| [Portfolio](https://visbhavesh.dev) | [GitHub](https://github.com/visbhavesh) | [NPM](https://www.npmjs.com/~visbhavesh) | [Blog](https://visbhavesh.dev/blog) |
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%E2%9A%A1+77%2B+Projects+across+Full+Stack+%26+AI%2FML;%F0%9F%A4%96+Specializing+in+LLM+Training+%26+AI+Agents;%F0%9F%8E%AE+Gaming+%7C+Coding+%7C+Coffee+Enthusiast;%F0%9F%9A%80+Building+the+Future+with+AI" alt="Fun Facts" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects (From 77+ Projects)
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 AI Chatbot with RAG</h3>
+<div align="center">
+<a href="https://github.com/visbhavesh/ai-chatbot-rag" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=visbhavesh&repo=ai-chatbot-rag&theme=tokyonight" alt="AI Chatbot"/>
+</a>
+<br><br>
+<p>
+<a href="https://github.com/visbhavesh/ai-chatbot-rag" target="_blank">
+<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p><strong>Python, LangChain, OpenAI</strong><br>Advanced RAG system with vector database integration</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🚀 Full Stack E-Commerce</h3>
+<div align="center">
+<a href="https://github.com/visbhavesh/ecommerce-mern" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=visbhavesh&repo=ecommerce-mern&theme=tokyonight" alt="E-Commerce"/>
+</a>
+<br><br>
+<p>
+<a href="https://github.com/visbhavesh/ecommerce-mern" target="_blank">
+<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p><strong>React, Node.js, MongoDB</strong><br>Scalable e-commerce platform with payment integration</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🧠 Multi-Agent System</h3>
+<div align="center">
+<a href="https://github.com/visbhavesh/multi-agent-system" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=visbhavesh&repo=multi-agent-system&theme=tokyonight" alt="Multi-Agent"/>
+</a>
+<br><br>
+<p>
+<a href="https://github.com/visbhavesh/multi-agent-system" target="_blank">
+<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p><strong>Python, AutoGen, LangChain</strong><br>Collaborative AI agents for complex tasks</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">📱 React Native App</h3>
+<div align="center">
+<a href="https://github.com/visbhavesh/react-native-app" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=visbhavesh&repo=react-native-app&theme=tokyonight" alt="React Native"/>
+</a>
+<br><br>
+<p>
+<a href="https://github.com/visbhavesh/react-native-app" target="_blank">
+<img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p><strong>React Native, Firebase</strong><br>Cross-platform mobile application</p>
+</div>
+</td>
+</tr>
+</table>
+
+### 📦 More Projects
+
+[![Repositories](https://img.shields.io/badge/View_All_77+_Projects-Click_Here-2ea44f?style=for-the-badge&logo=github)](https://github.com/visbhavesh?tab=repositories)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Bhavesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=visbhavesh&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/visbhavesh)
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+I'm always interested in collaborating on exciting projects:
+
+✨ **Build AI-powered applications**  
+🚀 **Develop full-stack solutions**  
+💡 **Contribute to open-source**  
+📚 **Share knowledge & learn together**  
+🤖 **Work on LLM & Agent projects**
+
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-Click%20Here-blue?style=for-the-badge&logo=handshake&logoColor=white)](mailto:bhaveshchand28@gmail.com)
 
 </div>
 
@@ -474,18 +404,18 @@ Phase 3: Leadership & Community
 
 <div align="center">
 
-### 🎬 Thanks for Visiting!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontAlignY=70&animation=twinkling&fontColor=white"/>
 
-<img src="https://media.giphy.com/media/WIg8qRCaGylKj5rbtk/giphy.gif" width="300" alt="Thank You">
+<br>
 
-**Made with ❤️ by Bhavesh Upadhyay**
+**⭐ From [Bhavesh Chand Upadhyay](https://github.com/visbhavesh) with ❤️**
 
-*"Code today, legend tomorrow!"* 🚀
+*"First, solve the problem. Then, write the code." – John Johnson*
+
+<br>
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
 ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-%E2%98%95%20Coffee-brown?style=for-the-badge)
-![Year](https://img.shields.io/badge/Year-2025-blue?style=for-the-badge)
-
-### ⭐ If you found this helpful, please consider giving a star! ⭐
+![Built with AI](https://img.shields.io/badge/Built%20with-🤖%20AI-blue?style=for-the-badge)
 
 </div>
