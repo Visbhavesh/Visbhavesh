@@ -23,7 +23,7 @@ const bhavesh = {
     location: "India 🇮🇳",
     currentRole: "Software Developer @ SAMS Noida",
     currentFocus: "LLM Training & AI Agent Development",
-    totalProjects: 77,
+    totalProjects: 99,
     code: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
     technologies: {
         frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Bootstrap"],
@@ -98,7 +98,7 @@ const bhavesh = {
 </tr>
 <tr>
 <td>🚀</td>
-<td><b>Projects:</b> 77+ completed projects across full-stack and AI/ML</td>
+<td><b>Projects:</b> 99+ completed projects across full-stack and AI/ML</td>
 </tr>
 <tr>
 <td>💬</td>
